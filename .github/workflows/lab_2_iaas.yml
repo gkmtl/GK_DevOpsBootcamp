@@ -8,7 +8,7 @@ on:
 name: Lab_2_IaaS
 
 env:
-  RG_NAME: TestGK
+  RG_NAME: GK-Lab2
   LOCATION: canadaeast
 
 jobs:
